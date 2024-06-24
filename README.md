@@ -1,5 +1,9 @@
 # mongodb-demo
 
+#### quick start
+
+1. install mongodb
+
 
 #### start with spring-data-mongodb
 

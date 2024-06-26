@@ -17,5 +17,4 @@ public class MongodbConfig {
         return MongoClients.create(uri);
     }
 
-
 }

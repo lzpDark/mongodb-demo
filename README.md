@@ -1,8 +1,10 @@
 # mongodb-demo
 
+this repo is just used to demo mongodb features
+
 #### quick start
 
-1. install mongodb
+1. install mongodb (listen on port 27017, used by test)
 
 
 #### start with spring-data-mongodb
